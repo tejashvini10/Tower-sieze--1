@@ -26,7 +26,7 @@ function setup() {
  
   //level one
   block1 = new Block(300,275,30,40);
-  console.log(block1);
+  //console.log(block1);
   block2 = new Block(330,275,30,40);
   block3 = new Block(360,275,30,40);
   block4 = new Block(390,275,30,40);
